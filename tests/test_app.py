@@ -1,4 +1,4 @@
-from app import add
+from myapp.app import add
 
 
 def test_add_positive_numbers():
